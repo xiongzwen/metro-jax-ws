@@ -1,0 +1,5 @@
+参考 
+https://www.cnblogs.com/549294286/p/3477075.html  
+https://blog.csdn.net/xxssyyyyssxx/article/details/50372403  
+web.xml放在web-inf目录下 ,将jax-ws的jar包放到tomcat中 
+https://blog.csdn.net/leon709/article/details/7107764  
